@@ -61,6 +61,9 @@ List of Functions
     islongitude()
     ismac()
     ismd5()
+    issha1()
+    issha256()
+    issha512()
     ismongoid()
     isiso8601()
     isbytelen()
@@ -86,6 +89,7 @@ List of Functions
     isisbn()
     isisbn10()
     isisbn13()
+    isimei()
 
 
 
